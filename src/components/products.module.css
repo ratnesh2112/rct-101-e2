@@ -1,0 +1,9 @@
+.main{
+    width: 75%;
+    height: 200px;
+    margin: auto;
+    border: 1px solid rgba(128, 128, 128, 0.358);
+    text-align: center;
+    border-radius: 25px;
+    margin-top: 25px;
+}
